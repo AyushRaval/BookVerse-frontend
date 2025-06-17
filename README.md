@@ -17,3 +17,4 @@ C:\Users\ayush\GenAI_projects2\medical_chatbot>conda activate medicalbot
 [2025-06-13 18:35:45,540]: Creating directory; research for the file: trials.ipynb:
 [2025-06-13 18:35:45,540]: Creating empty file: research\trials.ipynb:
 [2025-06-13 18:35:45,540]: Creating empty file:  test.py:
+# medical_chatbot
